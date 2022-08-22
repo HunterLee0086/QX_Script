@@ -1,4 +1,4 @@
-# QX_Script
+# QX_Script [https://github.com/xiaomaoJT/QX_Script]
 
 ## 本仓库用于记录QuantumultX的使用成长
 - QuantumultX版本：1.0.31
