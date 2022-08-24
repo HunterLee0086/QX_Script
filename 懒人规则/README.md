@@ -17,9 +17,9 @@
 - 新手、懒人
 
 
-## 
-- 
+## [QuantumultX_XIAOMAO](https://raw.githubusercontent.com/xiaomaoJT/QX_Script/main/懒人规则/QuantumultX_XIAOMAO.conf)
+- 小帽 懒人规则
 ### 亮点
-- 
+- 在w37fhy基础上更改为自用规则，轻量化
 ### 适合人群
-- 
+- 新手、懒人
